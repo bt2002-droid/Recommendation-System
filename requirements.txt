@@ -414,3 +414,8 @@ streamlit
 pandas
 scikit-learn
 git+https://github.com/NicolasHug/Surprise.git
+streamlit
+pandas
+scikit-learn
+git+https://github.com/NicolasHug/Surprise.git
+
